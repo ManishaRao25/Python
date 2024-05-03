@@ -1,6 +1,9 @@
 Python program to remove given character from String.
+
 Python Program to count occurrence of a given characters in string.
+
 Python Program to check if two Strings are Anagram.
+
 Python program to check a String is palindrome or not.
 Python program to check given character is vowel or consonant.
 Python program to check given character is digit or not.
